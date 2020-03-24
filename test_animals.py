@@ -5,11 +5,12 @@ import animals
 m = animals.Mammals()
 m.printMembers()
 
-b = animals.Birds()
-b.printMembers()
+harmless_birds = animals.harmless.Birds()
+harmless_birds.printMembers()
 
-f = animals.Fish()
-f.printMembers()
+dangerous_fish = animals.dangerous.Fish()
+dangerous_fish.printMembers()
+
 
 
 
