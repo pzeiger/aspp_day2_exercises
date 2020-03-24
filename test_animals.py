@@ -8,4 +8,8 @@ m.printMembers()
 b = animals.Birds()
 b.printMembers()
 
+f = animals.Fish()
+f.printMembers()
+
+
 
