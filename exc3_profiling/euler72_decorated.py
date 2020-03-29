@@ -59,6 +59,7 @@ def fast_phi(n, primes):
     return phi
 
 
+@profile
 def main(fast=True):
     primes = gen_primes(1000)
     m = 10000
