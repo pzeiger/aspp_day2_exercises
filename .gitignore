@@ -1,2 +1,5 @@
 **/__pycache__/
 **/*.py.prof
+**/*.py.mprof
+**/*.py.lprof
+**/*.ipynb_checkpoints
